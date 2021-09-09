@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chethanbh88
 - 👀 I’m interested in Linux, Python, Kubenetes, VMware
-- 🌱 I’m currently learning Pyhton, Kubernetes
+- 🌱 I’m currently learning Python, Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - chethanbhis@gmail.com
 
