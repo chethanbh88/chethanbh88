@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chethanbh88
+- 👋 Hi, I’m Chethan
 - 👀 I’m interested in Linux, Python, Kubenetes, VMware
 - 🌱 I’m currently learning Python, Kubernetes
 - 💞️ I’m looking to collaborate on ...
